@@ -45,6 +45,13 @@ const Index = () => {
 
   return (
     <div className="min-h-screen bg-background">
+      <h1 className="sr-only">
+  Tractări auto 24/7 în Suceava, Câmpulung Moldovenesc, Gura Humorului, Vatra Dornei și Bistrița – AutoHelp
+</h1>
+<p className="sr-only">
+  AutoHelp 24/7 oferă servicii profesionale de tractări auto, platformă auto și transport marfă în Suceava, 
+  Câmpulung Moldovenesc, Gura Humorului, Vatra Dornei și Bistrița. Intervenție rapidă, servicii non-stop la cele mai bune prețuri.
+</p>
       <ThemeToggle />
       {/* Hero Section with Carousel */}
       <section className="relative bg-gradient-to-b from-primary/10 via-background to-background overflow-hidden">
